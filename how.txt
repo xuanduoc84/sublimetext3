@@ -4,6 +4,8 @@ Description 				Offset 		Original 	Patched
 Initial License Check 		0x8545 		0x84 		0x85
 Persistent License Check 	0x192487 	0x75 		0x74
 Purchase License Nag 		0x8F6A8 	0x48 		0xC3
+=============
+Full license				0x58BB94	97 94 0D	00 00 00
 
 
 Sublime Text 3 - Build 3200 - Linux x64
@@ -11,6 +13,7 @@ Sublime Text 3 - Build 3200 - Linux x64
 Desciption 					Offset 		Original 	Patched
 Initial License Check 		0x3BEB98 	0x84 		0x85
 Persistent License Check 	0x477C6E 	0x75 		0x74
+
 
 
 —– BEGIN LICENSE —–
